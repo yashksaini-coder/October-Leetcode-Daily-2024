@@ -38,7 +38,11 @@
 ## Solutions
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
+| Leetcode Problem | Problem Statement | Solution |
+|---:|:-----|:----:|
+| [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
 <!-- SOLUTIONS TABLE END -->
 
 <br>
