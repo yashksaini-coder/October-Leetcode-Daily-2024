@@ -24,7 +24,7 @@ jobs:
 
     - name: Trigger workflow in another repository
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.OCTOBER_2024 }}
       run: |
         echo "Changes detected. Workflow Triggered!"
         curl -X POST \

@@ -11,11 +11,9 @@ const toc = async () => {
   // Fetch from API
   dotenv.config();
 
-  const username = process.env.USERNAME;
-  const reponame = process.env.REPONAME;
 
   const data = await fetch(
-    `https://api.github.com/repos/${username}/${reponame}/contents?ref=main`
+    `https://api.github.com/repos/yashksaini-coder/October-Leetcode-Daily-2024/contents?ref=main`
   )
     .then((response) => response.json())
     .then((data) => data);
