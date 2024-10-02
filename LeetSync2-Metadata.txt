@@ -1,1 +1,2 @@
 1497-check-if-array-pairs-are-divisible-by-k|Medium|1727721000000
+1331-rank-transform-of-an-array|Easy|1727807400000
