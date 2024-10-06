@@ -53,6 +53,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -60,6 +61,7 @@
 | [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | [Solution](./1331-rank-transform-of-an-array/rank-transform-of-an-array.java) |
 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Check IF Array Pairs Are Divisible by K | [Solution](./1497-check-if-array-pairs-are-divisible-by-k/check-if-array-pairs-are-divisible-by-k.java) |
 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | Make Sum Divisible by P | [Solution](./1590-make-sum-divisible-by-p/make-sum-divisible-by-p.java) |
+| [1813](https://leetcode.com/problems/sentence-similarity-iii/) | Sentence Similarity III | [Solution](./1813-sentence-similarity-iii/sentence-similarity-iii.java) |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | [Solution](./2491-divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.java) |
 | [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
 <!-- SOLUTIONS TABLE END -->
