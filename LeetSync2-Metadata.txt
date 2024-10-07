@@ -4,3 +4,4 @@
 2491-divide-players-into-teams-of-equal-skill|Medium|1727980200000
 567-permutation-in-string|Medium|1728066600000
 1813-sentence-similarity-iii|Medium|1728153000000
+2696-minimum-string-length-after-removing-substrings|Easy|1728239400000
