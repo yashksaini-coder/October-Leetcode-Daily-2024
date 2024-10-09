@@ -6,3 +6,4 @@
 1813-sentence-similarity-iii|Medium|1728153000000
 2696-minimum-string-length-after-removing-substrings|Easy|1728239400000
 1963-minimum-number-of-swaps-to-make-the-string-balanced|Medium|1728325800000
+921-minimum-add-to-make-parentheses-valid|Medium|1728412200000
