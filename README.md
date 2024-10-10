@@ -61,11 +61,13 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
 | [567](https://leetcode.com/problems/permutation-in-string/) | Permutation in String | [Solution](./567-permutation-in-string/permutation-in-string.java) |
 | [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Minimum Add to Make Parentheses Valid | [Solution](./921-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) |
+| [962](https://leetcode.com/problems/maximum-width-ramp/) | Maximum Width Ramp | [Solution](./962-maximum-width-ramp/maximum-width-ramp.java) |
 | [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | [Solution](./1331-rank-transform-of-an-array/rank-transform-of-an-array.java) |
 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Check IF Array Pairs Are Divisible by K | [Solution](./1497-check-if-array-pairs-are-divisible-by-k/check-if-array-pairs-are-divisible-by-k.java) |
 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | Make Sum Divisible by P | [Solution](./1590-make-sum-divisible-by-p/make-sum-divisible-by-p.java) |
