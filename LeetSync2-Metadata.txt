@@ -9,3 +9,4 @@
 921-minimum-add-to-make-parentheses-valid|Medium|1728412200000
 962-maximum-width-ramp|Medium|1728498600000
 1942-the-number-of-the-smallest-unoccupied-chair|Medium|1728585000000
+2406-divide-intervals-into-minimum-number-of-groups|Medium|1728671400000
