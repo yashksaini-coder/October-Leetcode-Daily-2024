@@ -65,6 +65,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -77,6 +78,7 @@
 | [1813](https://leetcode.com/problems/sentence-similarity-iii/) | Sentence Similarity III | [Solution](./1813-sentence-similarity-iii/sentence-similarity-iii.java) |
 | [1942](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | The Number of the Smallest Unoccupied Chair | [Solution](./1942-the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.java) |
 | [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Minimum Number of Swaps to Make the String Balanced | [Solution](./1963-minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.java) |
+| [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Divide Intervals Into Minimum Number of Groups | [Solution](./2406-divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.java) |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | [Solution](./2491-divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.java) |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | [Solution](./2696-minimum-string-length-after-removing-substrings/minimum-string-length-after-removing-substrings.java) |
 | [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
