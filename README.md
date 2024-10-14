@@ -69,10 +69,12 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
 | [567](https://leetcode.com/problems/permutation-in-string/) | Permutation in String | [Solution](./567-permutation-in-string/permutation-in-string.java) |
+| [632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Smallest Range Covering Elements from K Lists | [Solution](./632-smallest-range-covering-elements-from-k-lists/smallest-range-covering-elements-from-k-lists.java) |
 | [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Minimum Add to Make Parentheses Valid | [Solution](./921-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) |
 | [962](https://leetcode.com/problems/maximum-width-ramp/) | Maximum Width Ramp | [Solution](./962-maximum-width-ramp/maximum-width-ramp.java) |
 | [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | [Solution](./1331-rank-transform-of-an-array/rank-transform-of-an-array.java) |
