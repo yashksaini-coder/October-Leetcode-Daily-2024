@@ -68,6 +68,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -82,6 +83,7 @@
 | [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Minimum Number of Swaps to Make the String Balanced | [Solution](./1963-minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.java) |
 | [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Divide Intervals Into Minimum Number of Groups | [Solution](./2406-divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.java) |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | [Solution](./2491-divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.java) |
+| [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Maximal Score After Applying K Operations | [Solution](./2530-maximal-score-after-applying-k-operations/maximal-score-after-applying-k-operations.java) |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | [Solution](./2696-minimum-string-length-after-removing-substrings/minimum-string-length-after-removing-substrings.java) |
 | [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
 <!-- SOLUTIONS TABLE END -->
