@@ -12,3 +12,4 @@
 2406-divide-intervals-into-minimum-number-of-groups|Medium|1728671400000
 2530-maximal-score-after-applying-k-operations|Medium|1728844200000
 632-smallest-range-covering-elements-from-k-lists|Hard|1728844200000
+2938-separate-black-and-white-balls|Medium|1728930600000
