@@ -14,3 +14,4 @@
 632-smallest-range-covering-elements-from-k-lists|Hard|1728844200000
 2938-separate-black-and-white-balls|Medium|1728930600000
 670-maximum-swap|Medium|1729103400000
+2044-count-number-of-maximum-bitwise-or-subsets|Medium|1729189800000
