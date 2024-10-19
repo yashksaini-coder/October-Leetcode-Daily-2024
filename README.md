@@ -79,6 +79,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -90,6 +91,7 @@
 | [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | [Solution](./1331-rank-transform-of-an-array/rank-transform-of-an-array.java) |
 | [1405](https://leetcode.com/problems/longest-happy-string/) | Longest Happy String | [Solution](./1405-longest-happy-string/longest-happy-string.java) |
 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Check IF Array Pairs Are Divisible by K | [Solution](./1497-check-if-array-pairs-are-divisible-by-k/check-if-array-pairs-are-divisible-by-k.java) |
+| [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Find Kth Bit in Nth Binary String | [Solution](./1545-find-kth-bit-in-nth-binary-string/find-kth-bit-in-nth-binary-string.java) |
 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | Make Sum Divisible by P | [Solution](./1590-make-sum-divisible-by-p/make-sum-divisible-by-p.java) |
 | [1813](https://leetcode.com/problems/sentence-similarity-iii/) | Sentence Similarity III | [Solution](./1813-sentence-similarity-iii/sentence-similarity-iii.java) |
 | [1942](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | The Number of the Smallest Unoccupied Chair | [Solution](./1942-the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.java) |
