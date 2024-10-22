@@ -17,3 +17,4 @@
 2044-count-number-of-maximum-bitwise-or-subsets|Medium|1729189800000
 1545-find-kth-bit-in-nth-binary-string|Medium|1729276200000
 2583-kth-largest-sum-in-a-binary-tree|Medium|1729535400000
+1106-parsing-a-boolean-expression|Hard|1729535400000
