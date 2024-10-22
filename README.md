@@ -41,6 +41,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -61,6 +62,7 @@
 | [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Divide Intervals Into Minimum Number of Groups | [Solution](./2406-divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.java) |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | [Solution](./2491-divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.java) |
 | [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Maximal Score After Applying K Operations | [Solution](./2530-maximal-score-after-applying-k-operations/maximal-score-after-applying-k-operations.java) |
+| [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Kth Largest Sum in a Binary Tree | [Solution](./2583-kth-largest-sum-in-a-binary-tree/kth-largest-sum-in-a-binary-tree.java) |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | [Solution](./2696-minimum-string-length-after-removing-substrings/minimum-string-length-after-removing-substrings.java) |
 | [2938](https://leetcode.com/problems/separate-black-and-white-balls/) | Separate Black and White Balls | [Solution](./2938-separate-black-and-white-balls/separate-black-and-white-balls.java) |
 | [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
