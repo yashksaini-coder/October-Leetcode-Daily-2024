@@ -18,3 +18,4 @@
 1545-find-kth-bit-in-nth-binary-string|Medium|1729276200000
 2583-kth-largest-sum-in-a-binary-tree|Medium|1729535400000
 1106-parsing-a-boolean-expression|Hard|1729535400000
+2641-cousins-in-binary-tree-ii|Medium|1729621800000
