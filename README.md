@@ -47,33 +47,10 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
-| [567](https://leetcode.com/problems/permutation-in-string/) | Permutation in String | [Solution](./567-permutation-in-string/permutation-in-string.java) |
-| [632](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) | Smallest Range Covering Elements from K Lists | [Solution](./632-smallest-range-covering-elements-from-k-lists/smallest-range-covering-elements-from-k-lists.java) |
-| [670](https://leetcode.com/problems/maximum-swap/) | Maximum Swap | [Solution](./670-maximum-swap/maximum-swap.java) |
-| [921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Minimum Add to Make Parentheses Valid | [Solution](./921-minimum-add-to-make-parentheses-valid/minimum-add-to-make-parentheses-valid.java) |
-| [962](https://leetcode.com/problems/maximum-width-ramp/) | Maximum Width Ramp | [Solution](./962-maximum-width-ramp/maximum-width-ramp.java) |
-| [1106](https://leetcode.com/problems/parsing-a-boolean-expression/) | Parsing a Boolean Expression | [Solution](./1106-parsing-a-boolean-expression/parsing-a-boolean-expression.java) |
-| [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | [Solution](./1331-rank-transform-of-an-array/rank-transform-of-an-array.java) |
-| [1405](https://leetcode.com/problems/longest-happy-string/) | Longest Happy String | [Solution](./1405-longest-happy-string/longest-happy-string.java) |
-| [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Check IF Array Pairs Are Divisible by K | [Solution](./1497-check-if-array-pairs-are-divisible-by-k/check-if-array-pairs-are-divisible-by-k.java) |
-| [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Find Kth Bit in Nth Binary String | [Solution](./1545-find-kth-bit-in-nth-binary-string/find-kth-bit-in-nth-binary-string.java) |
-| [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | Make Sum Divisible by P | [Solution](./1590-make-sum-divisible-by-p/make-sum-divisible-by-p.java) |
-| [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Split a String Into the Max Number of Unique Substrings | [Solution](./1593-split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.java) |
-| [1813](https://leetcode.com/problems/sentence-similarity-iii/) | Sentence Similarity III | [Solution](./1813-sentence-similarity-iii/sentence-similarity-iii.java) |
-| [1942](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | The Number of the Smallest Unoccupied Chair | [Solution](./1942-the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.java) |
-| [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Minimum Number of Swaps to Make the String Balanced | [Solution](./1963-minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.java) |
-| [2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/) | Count Number of Maximum Bitwise or Subsets | [Solution](./2044-count-number-of-maximum-bitwise-or-subsets/count-number-of-maximum-bitwise-or-subsets.java) |
-| [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Divide Intervals Into Minimum Number of Groups | [Solution](./2406-divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.java) |
-| [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | [Solution](./2491-divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.java) |
-| [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Maximal Score After Applying K Operations | [Solution](./2530-maximal-score-after-applying-k-operations/maximal-score-after-applying-k-operations.java) |
-| [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Kth Largest Sum in a Binary Tree | [Solution](./2583-kth-largest-sum-in-a-binary-tree/kth-largest-sum-in-a-binary-tree.java) |
-| [2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Cousins in Binary Tree II | [Solution](./2641-cousins-in-binary-tree-ii/cousins-in-binary-tree-ii.java) |
-| [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | [Solution](./2696-minimum-string-length-after-removing-substrings/minimum-string-length-after-removing-substrings.java) |
-| [2938](https://leetcode.com/problems/separate-black-and-white-balls/) | Separate Black and White Balls | [Solution](./2938-separate-black-and-white-balls/separate-black-and-white-balls.java) |
-| [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
 <!-- SOLUTIONS TABLE END -->
 
 <br>
