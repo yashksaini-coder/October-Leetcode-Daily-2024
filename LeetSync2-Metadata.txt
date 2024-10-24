@@ -19,3 +19,4 @@
 2583-kth-largest-sum-in-a-binary-tree|Medium|1729535400000
 1106-parsing-a-boolean-expression|Hard|1729535400000
 2641-cousins-in-binary-tree-ii|Medium|1729621800000
+951-flip-equivalent-binary-trees|Medium|1729708200000
