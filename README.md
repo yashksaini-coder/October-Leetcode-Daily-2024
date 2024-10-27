@@ -51,6 +51,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -62,6 +63,7 @@
 | [962](https://leetcode.com/problems/maximum-width-ramp/) | Maximum Width Ramp | [Solution](./962-maximum-width-ramp/maximum-width-ramp.java) |
 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression/) | Parsing a Boolean Expression | [Solution](./1106-parsing-a-boolean-expression/parsing-a-boolean-expression.java) |
 | [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | [Solution](./1331-rank-transform-of-an-array/rank-transform-of-an-array.java) |
+| [1402](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Count Square Submatrices With all Ones | [Solution](./1402-count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.java) |
 | [1405](https://leetcode.com/problems/longest-happy-string/) | Longest Happy String | [Solution](./1405-longest-happy-string/longest-happy-string.java) |
 | [1497](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | Check IF Array Pairs Are Divisible by K | [Solution](./1497-check-if-array-pairs-are-divisible-by-k/check-if-array-pairs-are-divisible-by-k.java) |
 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Find Kth Bit in Nth Binary String | [Solution](./1545-find-kth-bit-in-nth-binary-string/find-kth-bit-in-nth-binary-string.java) |
