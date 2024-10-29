@@ -55,6 +55,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -83,6 +84,7 @@
 | [2586](https://leetcode.com/problems/longest-square-streak-in-an-array/) | Longest Square Streak in an Array | [Solution](./2586-longest-square-streak-in-an-array/longest-square-streak-in-an-array.java) |
 | [2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Cousins in Binary Tree II | [Solution](./2641-cousins-in-binary-tree-ii/cousins-in-binary-tree-ii.java) |
 | [2696](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/) | Minimum String Length After Removing Substrings | [Solution](./2696-minimum-string-length-after-removing-substrings/minimum-string-length-after-removing-substrings.java) |
+| [2794](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/) | Maximum Number of Moves in a Grid | [Solution](./2794-maximum-number-of-moves-in-a-grid/maximum-number-of-moves-in-a-grid.java) |
 | [2938](https://leetcode.com/problems/separate-black-and-white-balls/) | Separate Black and White Balls | [Solution](./2938-separate-black-and-white-balls/separate-black-and-white-balls.java) |
 | [NaN](https://leetcode.com/problems//) |  | [Solution](./scripts/.java) |
 <!-- SOLUTIONS TABLE END -->
