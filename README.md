@@ -57,6 +57,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -74,6 +75,7 @@
 | [1545](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | Find Kth Bit in Nth Binary String | [Solution](./1545-find-kth-bit-in-nth-binary-string/find-kth-bit-in-nth-binary-string.java) |
 | [1590](https://leetcode.com/problems/make-sum-divisible-by-p/) | Make Sum Divisible by P | [Solution](./1590-make-sum-divisible-by-p/make-sum-divisible-by-p.java) |
 | [1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/) | Split a String Into the Max Number of Unique Substrings | [Solution](./1593-split-a-string-into-the-max-number-of-unique-substrings/split-a-string-into-the-max-number-of-unique-substrings.java) |
+| [1766](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/) | Minimum Number of Removals to Make Mountain Array | [Solution](./1766-minimum-number-of-removals-to-make-mountain-array/minimum-number-of-removals-to-make-mountain-array.java) |
 | [1813](https://leetcode.com/problems/sentence-similarity-iii/) | Sentence Similarity III | [Solution](./1813-sentence-similarity-iii/sentence-similarity-iii.java) |
 | [1942](https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/) | The Number of the Smallest Unoccupied Chair | [Solution](./1942-the-number-of-the-smallest-unoccupied-chair/the-number-of-the-smallest-unoccupied-chair.java) |
 | [1963](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/) | Minimum Number of Swaps to Make the String Balanced | [Solution](./1963-minimum-number-of-swaps-to-make-the-string-balanced/minimum-number-of-swaps-to-make-the-string-balanced.java) |
