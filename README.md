@@ -59,6 +59,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -84,6 +85,7 @@
 | [2406](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/) | Divide Intervals Into Minimum Number of Groups | [Solution](./2406-divide-intervals-into-minimum-number-of-groups/divide-intervals-into-minimum-number-of-groups.java) |
 | [2491](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | Divide Players Into Teams of Equal Skill | [Solution](./2491-divide-players-into-teams-of-equal-skill/divide-players-into-teams-of-equal-skill.java) |
 | [2530](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | Maximal Score After Applying K Operations | [Solution](./2530-maximal-score-after-applying-k-operations/maximal-score-after-applying-k-operations.java) |
+| [2554](https://leetcode.com/problems/minimum-total-distance-traveled/) | Minimum Total Distance Traveled | [Solution](./2554-minimum-total-distance-traveled/minimum-total-distance-traveled.java) |
 | [2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/) | Kth Largest Sum in a Binary Tree | [Solution](./2583-kth-largest-sum-in-a-binary-tree/kth-largest-sum-in-a-binary-tree.java) |
 | [2586](https://leetcode.com/problems/longest-square-streak-in-an-array/) | Longest Square Streak in an Array | [Solution](./2586-longest-square-streak-in-an-array/longest-square-streak-in-an-array.java) |
 | [2641](https://leetcode.com/problems/cousins-in-binary-tree-ii/) | Cousins in Binary Tree II | [Solution](./2641-cousins-in-binary-tree-ii/cousins-in-binary-tree-ii.java) |
