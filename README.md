@@ -61,6 +61,7 @@
 
 
 
+
 <!-- SOLUTIONS TABLE BEGIN -->
 | Leetcode Problem | Problem Statement | Solution |
 |---:|:-----|:----:|
@@ -71,6 +72,7 @@
 | [951](https://leetcode.com/problems/flip-equivalent-binary-trees/) | Flip Equivalent Binary Trees | [Solution](./951-flip-equivalent-binary-trees/flip-equivalent-binary-trees.java) |
 | [962](https://leetcode.com/problems/maximum-width-ramp/) | Maximum Width Ramp | [Solution](./962-maximum-width-ramp/maximum-width-ramp.java) |
 | [1106](https://leetcode.com/problems/parsing-a-boolean-expression/) | Parsing a Boolean Expression | [Solution](./1106-parsing-a-boolean-expression/parsing-a-boolean-expression.java) |
+| [1302](https://leetcode.com/problems/delete-characters-to-make-fancy-string/) | Delete Characters to Make Fancy String | [Solution](./1302-delete-characters-to-make-fancy-string/delete-characters-to-make-fancy-string.java) |
 | [1331](https://leetcode.com/problems/rank-transform-of-an-array/) | Rank Transform of an Array | [Solution](./1331-rank-transform-of-an-array/rank-transform-of-an-array.java) |
 | [1402](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | Count Square Submatrices With all Ones | [Solution](./1402-count-square-submatrices-with-all-ones/count-square-submatrices-with-all-ones.java) |
 | [1405](https://leetcode.com/problems/longest-happy-string/) | Longest Happy String | [Solution](./1405-longest-happy-string/longest-happy-string.java) |
